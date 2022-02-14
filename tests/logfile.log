@@ -1,0 +1,88 @@
+2022-02-13 21:05:24,193 : INFO : test_e2e : Getting all products
+2022-02-13 21:05:24,261 : INFO : test_e2e : iphone X
+2022-02-13 21:05:24,298 : INFO : test_e2e : Samsung Note 8
+2022-02-13 21:05:24,335 : INFO : test_e2e : Nokia Edge
+2022-02-13 21:05:24,371 : INFO : test_e2e : Blackberry
+2022-02-13 21:06:00,032 : INFO : test_e2e : Getting all products
+2022-02-13 21:06:00,089 : INFO : test_e2e : iphone X
+2022-02-13 21:06:00,119 : INFO : test_e2e : Samsung Note 8
+2022-02-13 21:06:00,151 : INFO : test_e2e : Nokia Edge
+2022-02-13 21:06:00,182 : INFO : test_e2e : Blackberry
+2022-02-13 21:06:00,418 : INFO : test_e2e : Entering country name as cro
+2022-02-13 21:06:05,965 : INFO : test_e2e : Text received from app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-13 21:08:20,454 : INFO : test_FormSubmission : First name is Lucija
+2022-02-13 21:08:21,705 : INFO : test_FormSubmission : First name is Jens
+2022-02-13 21:08:21,705 : INFO : test_FormSubmission : First name is Jens
+2022-02-13 21:08:34,125 : INFO : test_e2e : Getting all products
+2022-02-13 21:08:34,197 : INFO : test_e2e : iphone X
+2022-02-13 21:08:34,236 : INFO : test_e2e : Samsung Note 8
+2022-02-13 21:08:34,282 : INFO : test_e2e : Nokia Edge
+2022-02-13 21:08:34,321 : INFO : test_e2e : Blackberry
+2022-02-13 21:08:34,653 : INFO : test_e2e : Entering country name as cro
+2022-02-13 21:08:40,369 : INFO : test_e2e : Text received from app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-13 21:12:26,358 : INFO : test_FormSubmission : First name is Lucija
+2022-02-13 21:12:27,622 : INFO : test_FormSubmission : First name is Jens
+2022-02-13 21:12:27,622 : INFO : test_FormSubmission : First name is Jens
+2022-02-13 21:12:40,330 : INFO : test_e2e : Getting all products
+2022-02-13 21:12:40,427 : INFO : test_e2e : iphone X
+2022-02-13 21:12:40,691 : INFO : test_e2e : Samsung Note 8
+2022-02-13 21:12:40,778 : INFO : test_e2e : Nokia Edge
+2022-02-13 21:12:41,000 : INFO : test_e2e : Blackberry
+2022-02-13 21:12:41,412 : INFO : test_e2e : Entering country name as cro
+2022-02-13 21:12:47,305 : INFO : test_e2e : Text received from app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-13 21:18:19,008 : INFO : test_FormSubmission : First name is Lucija
+2022-02-13 21:18:20,265 : INFO : test_FormSubmission : First name is Jens
+2022-02-13 21:18:32,101 : INFO : test_e2e : Getting all products
+2022-02-13 21:18:32,157 : INFO : test_e2e : iphone X
+2022-02-13 21:18:32,195 : INFO : test_e2e : Samsung Note 8
+2022-02-13 21:18:32,230 : INFO : test_e2e : Nokia Edge
+2022-02-13 21:18:32,258 : INFO : test_e2e : Blackberry
+2022-02-13 21:18:32,519 : INFO : test_e2e : Entering country name as cro
+2022-02-13 21:18:38,344 : INFO : test_e2e : Text received from app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-13 21:27:29,123 : INFO : test_FormSubmission : First name is Lucija
+2022-02-13 21:27:30,128 : INFO : test_FormSubmission : First name is Jens
+2022-02-13 21:27:44,376 : INFO : test_e2e : Getting all products
+2022-02-13 21:27:44,431 : INFO : test_e2e : iphone X
+2022-02-13 21:27:44,472 : INFO : test_e2e : Samsung Note 8
+2022-02-13 21:27:44,512 : INFO : test_e2e : Nokia Edge
+2022-02-13 21:27:44,547 : INFO : test_e2e : Blackberry
+2022-02-13 21:27:44,883 : INFO : test_e2e : Entering country name as cro
+2022-02-13 21:27:50,645 : INFO : test_e2e : Text received from app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-14 11:59:20,703 : INFO : test_FormSubmission : First name is Lucija
+2022-02-14 11:59:22,032 : INFO : test_FormSubmission : First name is Jens
+2022-02-14 11:59:33,113 : INFO : test_e2e : Getting all products
+2022-02-14 11:59:33,178 : INFO : test_e2e : iphone X
+2022-02-14 11:59:33,203 : INFO : test_e2e : Samsung Note 8
+2022-02-14 11:59:33,231 : INFO : test_e2e : Nokia Edge
+2022-02-14 11:59:33,255 : INFO : test_e2e : Blackberry
+2022-02-14 11:59:33,473 : INFO : test_e2e : Entering country name as cro
+2022-02-14 11:59:39,138 : INFO : test_e2e : Text received from app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-14 12:05:25,638 : INFO : test_FormSubmission : First name is Lucija
+2022-02-14 12:05:30,772 : INFO : test_FormSubmission : First name is Jens
+2022-02-14 12:05:56,328 : INFO : test_e2e : Getting all products
+2022-02-14 12:05:56,380 : INFO : test_e2e : iphone X
+2022-02-14 12:05:56,394 : INFO : test_e2e : Samsung Note 8
+2022-02-14 12:05:56,406 : INFO : test_e2e : Nokia Edge
+2022-02-14 12:05:56,416 : INFO : test_e2e : Blackberry
+2022-02-14 12:05:57,198 : INFO : test_e2e : Entering country name as cro
+2022-02-14 12:06:03,377 : INFO : test_e2e : Text received from app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-14 12:15:33,849 : INFO : test_FormSubmission : First name is Lucija
+2022-02-14 12:15:35,385 : INFO : test_FormSubmission : First name is Jens
+2022-02-14 12:15:48,908 : INFO : test_e2e : Getting all products
+2022-02-14 12:15:49,013 : INFO : test_e2e : iphone X
+2022-02-14 12:15:49,045 : INFO : test_e2e : Samsung Note 8
+2022-02-14 12:15:49,138 : INFO : test_e2e : Nokia Edge
+2022-02-14 12:15:49,189 : INFO : test_e2e : Blackberry
+2022-02-14 12:15:49,555 : INFO : test_e2e : Entering country name as cro
+2022-02-14 12:15:55,372 : INFO : test_e2e : Text received from app is×
+Success! Thank you! Your order will be delivered in next few weeks :-).
+2022-02-14 13:04:37,230 : INFO : test_FormSubmission : First name is Lucija
+2022-02-14 13:10:40,236 : INFO : test_FormSubmission : First name is Lucija
+2022-02-14 13:10:41,331 : INFO : test_FormSubmission : First name is Jens
