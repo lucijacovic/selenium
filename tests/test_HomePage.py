@@ -14,13 +14,11 @@ class TestHomePage(BaseClass):
 
         homePage = HomePage(self.driver)
         log.info("First name is " + getData["firstname"])
-        homePage.getName().send_keys(getData["firstname"]) # homePage.getName().send_keys("Lucija")
-        homePage.getEmail().send_keys(getData["email"]) # homePage.getEmail().send_keys("mail@examaple.com")
+        homePage.getName().send_keys(getData["firstname"])
+        homePage.getEmail().send_keys(getData["email"])
         homePage.getCheckbox().click()
 
-        self.selectOptionByText(homePage.getGender(), getData["gender"]) # self.selectOptionByText(homePage.getGender(), "Female")
-        # dropdown = Select(homePage.getGender())
-        # dropdown.select_by_visible_text("Female")
+        self.selectOptionByText(homePage.getGender(), getData["gender"])
 
         homePage.submitForm().click()
 
@@ -29,7 +27,6 @@ class TestHomePage(BaseClass):
         self.driver.refresh() # multiple dataset on same page
 
 
-    @pytest.fixture(params= HomePageData.test_HomePage_data) # @pytest.fixture(params=(("Lucija", "mail@examaple.com", "Female"), ("Jens", "mail2@examaple.com", "Male")))
-    # @pytest.fixture(params=HomePageData.getTestData("Testcase2")) # excel
+    @pytest.fixture(params= HomePageData.test_HomePage_data)
     def getData(self, request):
         return request.param
